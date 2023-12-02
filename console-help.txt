@@ -1,0 +1,17 @@
+System settings:
+|   help ------- Get helps.
+|   clear ------- Clear screen.
+|   editname ------ Edit your username.
+|   editpass ------ Edit your password.
+|   exit ------ Exit program.
+|   lock ------ Lock user.
+Main command:
+|   var ------ Set variable.Must has variable-nane and variable-value.Max can set 114 variables.
+|   getvalue ------- Get variable value.
+|   calc ------- Start Calc.
+|   konglong ------- Start the KongDangJieLong Game.
+|   redheart ------- Start the Redheart Fights Game.
+|   minesw ------- Start the Minesweeper Game.
+|   cards ------- Start the Cards Game.
+|   zhizhu ------- Start the ZhiZhu Cards Game.
+|   draw -------- Start the DrawTools.
